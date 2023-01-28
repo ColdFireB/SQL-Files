@@ -1,0 +1,173 @@
+[	
+{	
+	"id": 4646,
+    "category": "coffee",
+    "name": "Ethical Bean Medium Dark Roast, Espresso",
+    "manufacturer": "Ethical Bean",
+    "price": 7.78,
+    "current_stock": 10,
+    "inStock": 1
+},
+{
+    "id": 4643,
+    "category": "coffee",
+    "name": "Starbucks Coffee Variety Pack, 100% Arabica",
+    "manufacturer": "Starbucks",
+    "price": 40.91,
+    "current_stock": 14,
+    "inStock": 1
+},
+{
+    "id": 4641,
+    "category": "coffee",
+    "name": "Don Francisco Colombia Supremo Medium Roast",
+    "manufacturer": "Don Francisco",
+    "price": 9.76,
+    "current_stock": 15,
+    "inStock": 1
+},
+{
+    "id": 1225,
+    "category": "fresh-produce",
+    "name": "1/2 in. Brushless Hammer Drill",
+    "manufacturer": "Bosch",
+    "price": 12.98,
+    "current_stock": 12,
+    "inStock": 1
+},
+{
+    "id": 3674,
+    "category": "fresh-produce",
+    "name": "20V Max Cordless Drill Combo Kit",
+    "manufacturer": "DEWALT",
+    "price": 10.96,
+    "current_stock": 3,
+    "inStock": 1
+},
+{
+    "id": 2585,
+    "category": "fresh-produce",
+    "name": "Green Cabbage Organic",
+    "manufacturer": "Jack&Mary Organic Farms",
+    "price": 3.02,
+    "current_stock": 30,
+    "inStock": 1
+},
+{
+    "id": 5851,
+    "category": "fresh-produce",
+    "name": "Cucumber Organic",
+    "manufacturer": "Jack&Mary Organic Farms",
+    "price": 0.95,
+    "current_stock": 0,
+    "inStock": 0
+},
+{
+    "id": 8739,
+    "category": "fresh-produce",
+    "name": "Fresh Spinach Organic",
+    "manufacturer": "Jack&Mary Organic Farms",
+    "price": 2.95,
+    "current_stock": 27,
+    "inStock": 1
+},
+{
+    "id": 2177,
+    "category": "meat-seafood",
+    "name": "Cosco Three Step Steel Platform",
+    "manufacturer": "CoscoProducts",
+    "price": 2.95,
+    "current_stock": 9,
+    "inStock": 1
+},
+{
+    "id": 1709,
+    "category": "meat-seafood",
+    "name": "Beef Choice Angus Ribeye Steak",
+    "manufacturer": "Taylor & Partners Organic Meats",
+    "price": 14.95,
+    "current_stock": 17,
+    "inStock": 1
+},
+{
+    "id": 7395,
+    "category": "meat-seafood",
+    "name": "Boneless Skinless Chicken Breasts",
+    "manufacturer": "Taylor & Partners Organic Meats",
+    "price": 7.45,
+    "current_stock": 12,
+    "inStock": 1
+},
+{
+    "id": 8554,
+    "category": "candy",
+    "name": "Kinder Joy Eggs",
+    "manufacturer": "Ferrero",
+    "price": 1.05,
+    "current_stock": 3,
+    "inStock": 1
+},
+{
+    "id": 6483,
+    "category": "candy",
+    "name": "Cadbury Milk Chocolate",
+    "manufacturer": "Cadbury",
+    "price": 2.65,
+    "current_stock": 2,
+    "inStock": 1
+},
+{
+    "id": 5774,
+    "category": "candy",
+    "name": "HERSHEY'S, Milk Chocolate Almond",
+    "manufacturer": "Hershey's",
+    "price": 1.45,
+    "current_stock": 1,
+    "inStock": 1
+},
+{
+    "id": 8753,
+    "category": "dairy",
+    "name": "Reduced Fat Milk",
+    "manufacturer": "Jack&Mary Organic Farms",
+    "price": 3.45,
+    "current_stock": 24,
+    "inStock": 1
+},
+{
+    "id": 9482,
+    "category": "dairy",
+    "name": "Whole Milk",
+    "manufacturer": "Jack&Mary Organic Farms",
+    "price": 3.55,
+    "current_stock": 16,
+    "inStock": 1
+},
+{
+    "id": 5477,
+    "category": "dairy",
+    "name": "Cream Cheese",
+    "manufacturer": "Jack&Mary Organic Farms",
+    "price": 2.95,
+    "current_stock": 12,
+    "inStock": 1
+},
+{
+    "id": 5478,
+    "category": "dairy",
+    "name": "Low Fat Vanilla Yogurt",
+    "manufacturer": "Jack&Mary Organic Farms",
+    "price": 1.95,
+    "current_stock": 16,
+    "inStock": 1
+},
+{
+    "id": 4875,
+    "category": "bread-bakery",
+    "name": "2800 Watt Inverter Generator",
+    "manufacturer": "Honda",
+    "price": 47.45,
+    "current_stock": 10,
+    "inStock": 1
+}
+]
